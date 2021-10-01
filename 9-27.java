@@ -40,3 +40,8 @@ if (b!= null) {
     public static int[] createArray(int len) throws MyArrayLenException {
       if (len<0) {
         throw new MyArrayLen
+
+        }
+      
+ //10-1
+      
